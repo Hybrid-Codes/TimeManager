@@ -1,0 +1,11 @@
+is_global = true
+build_property.TargetFramework = net7.0-windows
+build_property.TargetPlatformMinVersion = 7.0
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = TimeManager_ych2epnd_wpftmp
+build_property.ProjectDir = C:\Users\Anon\Desktop\Uni\Year 2\Sem2\PROG6212\03_Projects\01_Assesments\01_POE1\TimeManager\
