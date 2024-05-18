@@ -1,6 +1,3 @@
-# PROG6212POE1
- A repo for POE Part 1 Semester 2
-
 # Time Management Application
 
 This is a desktop time management application built using C# and Windows Presentation Foundation (WPF). It allows users to manage modules for a semester, record study hours, and calculate remaining self-study hours.
